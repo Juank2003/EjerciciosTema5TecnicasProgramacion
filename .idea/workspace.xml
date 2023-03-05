@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94f3446-1ccb-4b2a-9a8a-cf64d5654e0d" name="Changes" comment="Ejercicio4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d94f3446-1ccb-4b2a-9a8a-cf64d5654e0d" name="Changes" comment="Ejercicio5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678017500994</updated>
-      <workItem from="1678017502359" duration="2153000" />
+      <workItem from="1678017502359" duration="2521000" />
     </task>
     <task id="LOCAL-00001" summary="NotaMediaVersion4">
       <created>1678018410740</created>
@@ -75,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678019193524</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ejercicio5">
+      <created>1678019798574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678019798574</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +102,7 @@
     <MESSAGE value="NotaMediaVersion4" />
     <MESSAGE value="Ejercicio2" />
     <MESSAGE value="Ejercicio4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio4" />
+    <MESSAGE value="Ejercicio5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio5" />
   </component>
 </project>
