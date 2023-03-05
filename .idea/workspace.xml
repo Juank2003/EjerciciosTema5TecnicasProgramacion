@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94f3446-1ccb-4b2a-9a8a-cf64d5654e0d" name="Changes" comment="Ejercicio6" />
+    <list default="true" id="d94f3446-1ccb-4b2a-9a8a-cf64d5654e0d" name="Changes" comment="Ejercicio7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678017500994</updated>
-      <workItem from="1678017502359" duration="2841000" />
+      <workItem from="1678017502359" duration="3250000" />
     </task>
     <task id="LOCAL-00001" summary="NotaMediaVersion4">
       <created>1678018410740</created>
@@ -93,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678020331088</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ejercicio7">
+      <created>1678020463094</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678020463094</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +125,7 @@
     <MESSAGE value="Ejercicio4" />
     <MESSAGE value="Ejercicio5" />
     <MESSAGE value="Ejercicio6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio6" />
+    <MESSAGE value="Ejercicio7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio7" />
   </component>
 </project>
